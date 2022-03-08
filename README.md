@@ -56,7 +56,7 @@
 
 #### 2. 데이터 전처리
 
-- 'price'컬럼에 0 달러 삭제
+- 'price'컬럼에 0 달러 삭제 --> 정규화 진행
 
 ​	![image](https://user-images.githubusercontent.com/98143525/157175636-8ba3db91-7756-4f90-91e2-ae1d85da8011.png)
 
