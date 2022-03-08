@@ -42,7 +42,7 @@
 
 ​		- 전처리가 필요한 컬럼 선정 : 
 
-​		neighborhood_group**, **room_type,price**,**minimum_nights**,**reviews_per_month**,**availability_365
+​		**neighborhood_group**, room_type,**price**,**minimum_nights**,reviews_per_month,**availability_365
 
 - 데이터 시각화
 
